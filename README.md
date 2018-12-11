@@ -5,7 +5,7 @@
 This webpage contains all information about me and the projects i have created
 ## Setup/Installation Requirements
 Languages used are html;css and markdown
-##link
+## link
 Click here to see it https://mushimiyimananelly.github.io/portfolio/
 ## Support and contact details
 more information:
